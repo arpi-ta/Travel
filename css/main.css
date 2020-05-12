@@ -1,0 +1,25 @@
+.primary-overlay{
+    background: rgba(0,0,0, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    
+}
+.reponsive-img{
+    background: rgba(0,0,0,0.5);
+}
+.section-developers{
+    position: relative;
+    background-image: url("https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    background-position: center;
+    border-top: #333 solid 4px;
+    border-bottom: #333 solid 4px;
+    min-height: 180px;
+
+
+
+}
